@@ -1,3 +1,8 @@
 .header nav.navbar {
   background-color:#8AE0F1 !important;
 }
+
+.card-body {color: black !important;font-size: 100%;
+}
+.card-text {color: black !important;font-size: 100%;
+}
